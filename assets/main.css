@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+/*red:E21B1B*/
+
+body {
+  margin: 0;
+  width: 100%;
+  font-family: 'Nosifer', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color:#880808;
+  }
+
+div {
+  margin: 0;
+  width: 100%;
+  font-family: 'Griffy', serif;
+  font-size: 37px;
+  text-align: center;
+  color:#FFFFFF;
+}
+
+a {
+color: #000000
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.loadingscreen {
+  min-height: 100vh;
+
+  background-image: url("pcb.jpg");
+  background-size: cover:
+  background-repeat: no-repeat;
+  background-position: center;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+/*color*/
+/*red:E21B1B*/
+
+body {
+  margin: 0;
+  width: 100%;
+  font-family: 'Griffy', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color:#000000;
+  }
+div {
+  margin: 0%;
+  width: 100%;
+  font-family: 'Nosifer', serif;
+  font-size: 15px;
+  text-align: center;
+  color:#880808;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.background{
+  min-height: 100vh;
+
+  background-image: url("strange.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Gallery{
+  margin: 0;
+  width: 40%;
+}
